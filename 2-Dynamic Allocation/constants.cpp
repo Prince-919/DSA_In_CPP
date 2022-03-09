@@ -18,8 +18,10 @@ int main()
     int const &k2=j2;
 
     // create reference from a const int 
+    /*
     int const j3=123;
     int& k3=j3; // error
     k3++;
+    */
     return 0;
 }
