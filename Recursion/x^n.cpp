@@ -3,6 +3,7 @@ using namespace std;
 
 int power(int x, int n)
 {
+    cout<<n<<endl;
     if(n == 0)
     {
         return 1;
