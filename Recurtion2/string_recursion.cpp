@@ -1,3 +1,6 @@
+
+// String Length  
+
 #include<iostream>
 using namespace std;
 int length(int s[])
