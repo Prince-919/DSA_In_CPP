@@ -1,5 +1,5 @@
 class Student
 {
     int rollNumber;
-    int age;
+    int age; 
 };
