@@ -31,7 +31,7 @@ int main()
     // cout<<n1.data<<" "<<n2.data<<endl;
 
     // Dynamically Create Object
-    // Node *n3 = new Node(100);
+    // Node *n3 = new Node(100);`
     // Node *head = &n3; 
 
     // Node *n4 = new Node(200);
