@@ -14,7 +14,6 @@ int main()
     s1.rollNumber = 101;
     cout<<s1.age<<endl;
     cout<<s1.rollNumber<<endl;
-
     s2.age = 30;
 
 
@@ -25,7 +24,7 @@ int main()
     // write method 1
     (*s6).age = 23;
     (*s6).rollNumber = 104;
-
+z
     // method 2
     s6 -> age = 23;
     s6 -> rollNumber = 104;
